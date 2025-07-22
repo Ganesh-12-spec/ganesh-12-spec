@@ -14,7 +14,7 @@
 | Area         | Learning Path                                                    |
 |--------------|------------------------------------------------------------------|
 | DSA          | Java · [Kunal's DSA Repo](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) |
-| Data Science | Python, R · HarvardX + Udemy Projects                            |
+| Data Science | Python,  + Udemy Projects                            |
 | Fullstack    | MERN + DevOps · ZTM / Fullstack Projects                         |
 | AI/ML        | Python, sklearn, OpenCV, DL · Coming soon...                     |
 
@@ -23,7 +23,6 @@
 ## 🧠 My Projects
 
 - 🔢 [DSA Problem Solving in Java](https://github.com/ganesh-12-spec/dsa-java)
-- 📈 [Exploring Real Datasets with R](https://github.com/ganesh-12-spec/r-data-science)
 - 💻 [Personal Portfolio Website](https://ganesh-12-specportfolio.vercel.app)
 - 🤖 [AI Chatbot (In Progress)](https://github.com/ganesh-ai/ai-chatbot)
 
