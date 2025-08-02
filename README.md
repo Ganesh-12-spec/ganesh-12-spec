@@ -57,6 +57,89 @@
   <img src="https://img.icons8.com/color/96/000000/docker.png" width="50" height="50" style="border-radius: 50%;"/>
 </p>
 
+<!-- 🌟 Core Programming Languages -->
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="45" height="45" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/000000/java.png" width="45" height="45" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="45" height="45" style="border-radius:50%;" />
+</p>
+
+<p align="center">⬇️</p>
+
+<!-- 🧠 AI / ML / DL -->
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/tensorflow.png" width="45" height="45" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/fluency/96/pytorch.png" width="45" height="45" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/ios/96/hugging-face-app.png" width="45" height="45" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-scikit-learn-machine-learning-library-for-python-programming-language-logo-shadow-tal-revivo.png" width="45" height="45" style="border-radius:50%;" />
+</p>
+
+<p align="center">⬇️</p>
+
+<!-- 📊 Data & Analysis -->
+<p align="center">
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/96/external-pandas-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="45" height="45" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/numpy.png" width="45" height="45" style="border-radius:50%;" />
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="45" height="45" style="border-radius:50%;" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45" height="45" style="border-radius:50%;" />
+</p>
+
+<p align="center">⬇️</p>
+
+<!-- 🌐 Frontend -->
+<p align="center">
+  <img src="https://img.icons8.com/color/96/html-5--v1.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/css3.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/javascript--v1.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/officel/80/react.png" width="40" height="40" style="border-radius:50%;" />
+</p>
+
+<p align="center">⬇️</p>
+
+<!-- ⚙️ Backend -->
+<p align="center">
+  <img src="https://img.icons8.com/color/96/flask.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/ios-filled/96/django.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/nodejs.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/fastapi.png" width="40" height="40" style="border-radius:50%;" />
+</p>
+
+<p align="center">⬇️</p>
+
+<!-- 🗃️ Databases -->
+<p align="center">
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/postgreesql.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/mongodb.png" width="40" height="40" style="border-radius:50%;" />
+</p>
+
+<p align="center">⬇️</p>
+
+<!-- ☁️ Cloud / DevOps / MLOps -->
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/docker.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/kubernetes.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/aws.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/google-cloud.png" width="40" height="40" style="border-radius:50%;" />
+</p>
+
+<p align="center">⬇️</p>
+
+<!-- 🔧 Version Control -->
+<p align="center">
+  <img src="https://img.icons8.com/color/96/git.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/material-outlined/96/github.png" width="40" height="40" style="border-radius:50%;" />
+</p>
+
+<p align="center">⬇️</p>
+
+<!-- 📈 Visualization / Dashboarding -->
+<p align="center">
+  <img src="https://img.icons8.com/color/96/plotly.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://img.icons8.com/color/96/microsoft-power-bi.png" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="40" height="40" style="border-radius:50%;" />
+</p>
+
 
 
 ---
