@@ -22,9 +22,7 @@
 
 ## 🧠 My Projects
 
-- 🔢 [DSA Problem Solving in Java](https://github.com/ganesh-12-spec/dsa-java)
-- 💻 [Personal Portfolio Website](https://ganesh-12-specportfolio.vercel.app)
-- 🤖 [AI Chatbot (In Progress)](https://github.com/ganesh-ai/ai-chatbot)
+       COMING SOON 
 
 ---
 
