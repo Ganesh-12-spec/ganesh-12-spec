@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ganesh Mhetre! (he/him)
+# 👋 Hi, I'm Ganesh Mhetre! 
 
 🚀 Aspiring Fullstack AI Engineer  
 🎯 Building a strong foundation in:
@@ -15,7 +15,7 @@
 |--------------|------------------------------------------------------------------|
 | DSA          | Java · [Kunal's DSA Repo](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) |
 | Data Science | Python,  + Udemy Projects                            |
-| Fullstack    | MERN + DevOps · ZTM / Fullstack Projects                         |
+| Fullstack    | MERN + DevOps ·Fullstack Projects                         |
 | AI/ML        | Python, sklearn, OpenCV, DL · Coming soon...                     |
 
 ---
@@ -32,7 +32,6 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code)
 
