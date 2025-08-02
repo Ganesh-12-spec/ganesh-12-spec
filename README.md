@@ -39,6 +39,33 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- Java -->
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- HTML -->
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- CSS -->
+  <img src="https://img.icons8.com/color/96/000000/css3.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- JavaScript -->
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- React -->
+  <img src="https://img.icons8.com/officel/80/000000/react.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- Node.js -->
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- MongoDB -->
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- Git -->
+  <img src="https://img.icons8.com/color/96/000000/git.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- GitHub -->
+  <img src="https://img.icons8.com/material-outlined/96/000000/github.png" width="50" height="50" style="border-radius: 50%;"/>
+  <!-- Docker -->
+  <img src="https://img.icons8.com/color/96/000000/docker.png" width="50" height="50" style="border-radius: 50%;"/>
+</p>
+
 
 
 ---
