@@ -55,12 +55,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ganeshmhetre&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshmhetre&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ganesh-12-spec &show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-12-spec &theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshmhetre&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-12-spec &layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -85,6 +85,9 @@
   <a href="https://ganesh.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganeshmhetre&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
