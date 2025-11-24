@@ -79,7 +79,7 @@
   <a href="https://linkedin.com/in/ganesh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/ganesh_dev" target="_blank">
+  <a href= "https://x.com/MhetreGane77178" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://ganesh.dev" target="_blank">
