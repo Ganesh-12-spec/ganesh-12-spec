@@ -18,7 +18,7 @@
 | 💻 **Fullstack Development** | MERN & PERN Stacks · REST APIs · Scalable Architecture |
 | ⚙️ **DevOps & Deployment** | Docker · CI/CD · Cloud · System Design |
 | 🤖 **AI & ML Integration** | Python · scikit-learn · TensorFlow · OpenCV · LangChain |
-| 🧩 **DSA (Python)** | Data Structures · Algorithms · Problem Solving |
+| 🧩 **DSA ** | Data Structures · Algorithms · Problem Solving |
 
 ---
 
